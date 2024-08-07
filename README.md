@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D-Jerlin-Seraphina
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning python, Java
 - 💞️ I’m looking to collaborate on ...
 
 <!---
